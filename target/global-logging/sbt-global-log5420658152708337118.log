@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly PipedRVSpec, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/farfar/Desktop/PipeRV/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRVSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCPU Wave[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31mPipedRVSpec *** ABORTED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.OutOfMemoryError: Java heap space[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.util.Arrays.copyOf(Arrays.java:3332)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:124)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:448)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.lang.StringBuilder.append(StringBuilder.java:136)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.mutable.StringBuilder.append(StringBuilder.scala:213)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD.$anonfun$serializeChanges$3(VCD.scala:676)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD$$Lambda$8644/1058616425.apply(Unknown Source)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.mutable.HashSet.foreach(HashSet.scala:79)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD.$anonfun$serializeChanges$2(VCD.scala:675)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD.$anonfun$serializeChanges$2$adapted(VCD.scala:673)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m

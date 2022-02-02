@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="edb" name="PipedRVSpec" tests="27" errors="0" failures="0" skipped="0" time="38.569" timestamp="2021-12-05T18:35:22">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.282-b08"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="AdoptOpenJDK"/><property name="java.vendor.url" value="https://adoptopenjdk.net/"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="DK"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/farfar/Desktop/PipeRV"/><property name="java.runtime.version" value="1.8.0_282-b08"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="idea.managed" value="true"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/ts/tbf9gw9x4fl67f3jvby05tv00000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="log4j.ignoreTCL" value="true"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/Users/farfar/Library/Caches/JNA/temp/jna1511399416500388156.tmp"/><property name="java.library.path" value="/Users/farfar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.16"/><property name="swoval.tmpdir" value="/Users/farfar/.sbt/1.0"/><property name="user.home" value="/Users/farfar"/><property name="user.timezone" value="Europe/Copenhagen"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/Users/farfar/Library/Application Support/JetBrains/IdeaIC2020.3/plugins/Scala/launcher/sbt-launch.jar"/><property name="user.name" value="farfar"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/Users/farfar/Library/Application Support/JetBrains/IdeaIC2020.3/plugins/Scala/launcher/sbt-launch.jar early(addPluginSbtFile=&quot;&quot;&quot;/private/var/folders/ts/tbf9gw9x4fl67f3jvby05tv00000gn/T/idea.sbt&quot;&quot;&quot;) ; set ideaPort in Global := 52614 ; idea-shell"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="da"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_282"/><property name="java.ext.dirs" value="/Users/farfar/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="AdoptOpenJDK"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/><property name="sbt.supershell" value="false"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="PipedRVSpec" name="PipedRV addlarge should pass" time="7.473">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV addneg should pass" time="2.242">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV addpos should pass" time="1.267">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV bool should pass" time="1.209">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV set should pass" time="1.69">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV shift should pass" time="1.192">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV shift2 should pass" time="1.183">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV branchcnt should pass" time="2.062">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV branchmany should pass" time="1.699">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV branchtrap should pass" time="1.136">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV loop should pass" time="3.11">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV recursive should pass" time="1.335">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV width should pass" time="0.87">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t1 should pass" time="0.806">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t2 should pass" time="0.784">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t3 should pass" time="0.821">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t4 should pass" time="1.04">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t5 should pass" time="1.024">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t6 should pass" time="0.805">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t7 should pass" time="1.094">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t8 should pass" time="0.702">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t9 should pass" time="0.722">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t10 should pass" time="0.659">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t11 should pass" time="0.688">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t12 should pass" time="1.229">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t13 should pass" time="1.058">
+                                                 
+                                               </testcase><testcase classname="PipedRVSpec" name="PipedRV t15 should pass" time="0.669">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

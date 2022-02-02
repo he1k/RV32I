@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly cpu.FunSpec, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 6 Scala sources to /Users/farfar/Desktop/PipeRV/target/scala-2.12/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/farfar/Desktop/PipeRV/src/main/scala/cpu/CPU.scala:220:22: overloaded method value is with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (v: chisel3.SInt,vr: chisel3.SInt*)(block: => Any)chisel3.util.SwitchContext[chisel3.SInt] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (v: chisel3.SInt)(block: => Any)chisel3.util.SwitchContext[chisel3.SInt] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (v: Iterable[chisel3.SInt])(block: => Any)chisel3.util.SwitchContext[chisel3.SInt][0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (chisel3.UInt)[0m
+[0m[[0m[31merror[0m] [0m[0m    switch(IDEXReg.a){ // Look at contents in x17[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 7 s, completed 08-11-2021 14:32:02[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

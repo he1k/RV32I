@@ -1,0 +1,51 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly PipedRVSpec, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/farfar/Desktop/PipeRV/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[33mwarn[0m] [0m[0mCanceling execution...[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 5.829 (70,7%) were spent in GC. [Heap: 0,35GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 7 seconds, 5.252 (76,6%) were spent in GC. [Heap: 0,26GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 6.833 (84,0%) were spent in GC. [Heap: 0,18GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 8 seconds, 6.84 (88,7%) were spent in GC. [Heap: 0,13GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 7.439 (92,8%) were spent in GC. [Heap: 0,10GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 8.624 (96,3%) were spent in GC. [Heap: 0,09GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 8.691 (97,9%) were spent in GC. [Heap: 0,08GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 8 seconds, 7.207 (97,9%) were spent in GC. [Heap: 0,07GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 8 seconds, 7.522 (99,0%) were spent in GC. [Heap: 0,07GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 8.715 (99,4%) were spent in GC. [Heap: 0,06GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 8.302 (99,3%) were spent in GC. [Heap: 0,06GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 10 seconds, 9.523 (99,5%) were spent in GC. [Heap: 0,06GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 8 seconds, 7.693 (99,7%) were spent in GC. [Heap: 0,06GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 8 seconds, 7.806 (99,7%) were spent in GC. [Heap: 0,06GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 8.156 (99,8%) were spent in GC. [Heap: 0,05GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 7 seconds, 6.924 (99,7%) were spent in GC. [Heap: 0,05GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 10 seconds, 9.307 (99,9%) were spent in GC. [Heap: 0,05GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn the last 9 seconds, 8.337 (100,0%) were spent in GC. [Heap: 0,05GB free of 1,44GB, max 1,44GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRVSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should pass *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  false was not true (PipedRVSpec.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPipedRV random9[0m[0m
