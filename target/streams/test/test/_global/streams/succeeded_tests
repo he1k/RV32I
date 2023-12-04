@@ -1,8 +1,0 @@
-#Successful Tests
-#Mon Dec 04 02:16:27 CET 2023
-cpu.DataMemorySpec=1637420365804
-cpu.PipedRVSpec=1637433607909
-cpu.ALUSpec=1637416599064
-PipedRVSpec=1701652587131
-ImmGenSpec=1637953321184
-cpu.BundleTestSpec=1634374510606
