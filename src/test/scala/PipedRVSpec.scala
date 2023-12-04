@@ -8,7 +8,7 @@ import java.nio.file.{Files, Paths}
 // Must be in the format of "/Users/MyUser/.../TestFolder/"
 // Note: The tester expects there to be a folder named out inside your TestFolder.
 object TestVar{
-  val dir = "/Users/farfar/Desktop/tasks/"
+  val dir = "C:\\Users\\farfar\\Desktop\\tests\\"
   val tests = Seq("addlarge", "addneg","addpos","bool","set","shift","shift2","branchcnt","branchmany","branchtrap","loop",
     "recursive","width","t1","t2","t3","t4","t5","t6","t7","t8","t9","t10","t11","t12","t13","t15")
 }
