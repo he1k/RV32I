@@ -1,5 +1,6 @@
-.bsp
-.idea
-/project/
-/target/
-/test_run_dir/
+/hardware/chisel/.bsp
+/hardware/chisel/.idea
+/hardware/chisel/project/
+/hardware/chisel/target/
+/hardware/chisel/test_run_dir/
+/hardware/vivado/src/gen/
