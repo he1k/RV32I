@@ -8,6 +8,24 @@ object Constants{
     object Global{
         val ADDRW = 16
         val DATAW = 32
+        val CLK_FREQ = 100000000
+    }
+    object SPI{
+        val TPU  = 160e-6 // 150 us, add 10 us to be sure
+        val RST_EN_CMD = 0x66
+        val RST_CMD = 0x99
+        val SCLK_FREQ = 25000000
+        val WRITE_CMD = 0x02
+        val READ_CMD = 0x03
+        val MR_READ_CMD = 0xB5
+        val MR_WRITE_CMD = 0xB1
+        val MR_16 = 0x80
+    }
+    object UART{
+        val BAUD = 115200
+        val READ_CMD = 0x52
+        val WRITE_CMD = 0x48
+        //val MR_READ_CMD = 0x40
     }
     object CTRL{
         val ADD = 0.U
